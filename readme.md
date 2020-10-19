@@ -1,4 +1,3 @@
-# Lian Duan #
 🧠 Problem Solver, 🍜 Food Eater, ⛰️Hiker, 📚 CS Major and 💻 Web Applications Software Dev
 
 Currently a third year CS student at UBC
