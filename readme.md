@@ -1,4 +1,4 @@
-## 👋 I'm Lian, nice to meet you ##  
+## 👋 I'm [Lian](https://liand.dev/), nice to meet you ##  
 🧠 Problem Solver, 🍜 Food Eater, ⛰️Hiker, 📚 CS Major and 💻 Web Applications Software Dev
 
 ### CS Senior @ UBC | LF Fall 2021 Internships ###
