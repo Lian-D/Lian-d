@@ -1,7 +1,7 @@
 ## 👋 I'm [Lian](https://liand.dev/), nice to meet you ##  
 🧠 Problem Solver, 🍜 Food Eater, ⛰️Hiker, 📚 CS Major and 💻 Web Applications Software Dev
 
-### CS Senior @ UBC | ~~LF Fall 2021 Internships~~ incoming FALL2021 SAP Intern ###
+### CS Senior @ UBC | Incoming Agile Developer Intern @ SAP Hana and Analytics
 
 ![Lian-D's commit stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact)
 
