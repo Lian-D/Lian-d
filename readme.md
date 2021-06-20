@@ -1,6 +1,6 @@
 ## 👋 I'm [Lian](https://liand.dev/), nice to meet you ##  
 
-<p><a href="https://github.com/Lian-D" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/liandu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p><a href="https://github.com/Lian-D" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/liandu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.linkedin.com/in/liandu/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>  <a href="https://liand.dev/" target="_blank"><img alt="Porfolio" src="https://img.shields.io/badge/Porfolio-%2312100E.svg?&style=for-the-badge&logo=GitHubSponsors&logoColor=white"/></a>
 </p>
 
 ### CS Senior @ UBC | Incoming Agile Developer Intern @ SAP Hana and Analytics
