@@ -11,7 +11,7 @@ Former Intern @SAP, @FORM and @LedgerDocs  </h3>
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lian-D&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true" />
 </a> -->
-<a href="https://github.com/anuraghazra/convoychat" align="center">
+<a href="" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact" />
 </a>
 </p>
