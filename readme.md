@@ -8,9 +8,9 @@ Former Intern @SAP, @FORM and @LedgerDocs  </h3>
 <h3 align="center"> 💻 Some Github Stats </h2>
 <!-- ![Lian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lian-D&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true)  ![Lian-D's commit stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact) -->
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lian-D&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact" />
 </a>
