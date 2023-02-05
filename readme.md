@@ -12,7 +12,7 @@ Former Intern @SAP, @FORM and @LedgerDocs  </h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lian-D&show_icons=true&theme=dark&include_all_commits=true&disable_animations=true" />
 </a> -->
 <a href="" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&theme=dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&langs_count=10&layout=compact&theme=dark&border_radius=15&card_width=445&hide_border=true&bg_color=0d1117" />
 </a>
 </p>
 
