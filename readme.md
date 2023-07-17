@@ -9,9 +9,9 @@
 <h1 align="center"> 💻 Some Github Stats </h2>
 <p align="center">
 <a href="" align="center">
-  <img align="left" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-    D&hide=c%2B%2B,css,TSQL,html,makefile,hack&langs_count=8&layout=compact&theme=dark&border_radius=15&card_width=405&hide_border=true&bg_color=0d1117" />
-  <img align="right" alt="Nadeshiko" title="anime" height="190px" src="nadeshiko.gif">
-  </a>
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lian-D&hide=c%2B%2B,css,TSQL,html,makefile,hack&langs_count=8&layout=compact&theme=dark&border_radius=15&card_width=405&hide_border=true&bg_color=0d1117" />
+</a>
+    <img align="right" alt="Nadeshiko" title="anime" height="180px" src="nadeshiko.gif">
 </p>
 
 <!-- ### Places I've Worked ###
